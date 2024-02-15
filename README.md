@@ -36,10 +36,9 @@
 - Original Image
     - format: DICOM
     - shape: (680, 682) or (700, 702)
-
-- Images
-    - CBCT: 5,971
-    - MDCT: 685
+    - Number of Images
+        - CBCT: 5,971
+        - MDCT: 685
 
 - Preprocessing
     - Convertint format (DICOM to tiff)
