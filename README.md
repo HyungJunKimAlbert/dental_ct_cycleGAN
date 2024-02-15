@@ -11,6 +11,8 @@
         - HU error(difference): +- 10 
     - Logging : tensorboard (2.14.0 version)
 
+---
+
 ### Model 
 
 - Original Article
@@ -31,6 +33,7 @@
 - Deep Learning Framework: 
   - Pytorch (https://pytorch.org/)
 
+---
 
 ### Dataset
 - Original Image
